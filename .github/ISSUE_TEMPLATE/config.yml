@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a problem with an NVIDIA-managed conda packge
+    url: https://github.com/conda-forge/cuda-feedstock/issues
+    about: Please report all issues for NVIDIA-managed conda packges in the cuda-feedstock. Issue trackers in other feedstocks are not monitored.
